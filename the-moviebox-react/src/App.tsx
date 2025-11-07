@@ -4,7 +4,7 @@ import { Header } from "./components/layout/header.tsx"
 import { Navbar } from "./components/layout/navbar.tsx"
 
 function App() {
-
+  
 
   return (
     <>
